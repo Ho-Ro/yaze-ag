@@ -1,0 +1,16 @@
+# editor artifacts
+*~
+.*~
+*.bak
+*.new
+*.old
+*.orig
+
+# build artifacts
+*.o
+
+# build results
+cdm
+keytest
+yaze
+yaze_bin
