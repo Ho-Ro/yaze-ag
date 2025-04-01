@@ -5,6 +5,7 @@
 *.new
 *.old
 *.orig
+*.work
 
 # build artifacts
 *.o
@@ -14,3 +15,6 @@ cdm
 keytest
 yaze
 yaze_bin
+doc-pak
+*.deb
+*.tar.gz

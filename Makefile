@@ -1,1 +1,1 @@
-Makefile_linux_64_intel_corei7
+Makefile_debian_linux
